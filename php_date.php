@@ -10,27 +10,47 @@
 </head>
 
 <body>
-    Dat's my project
+    A quelle date avez-vous commencé à coder ?
 
+    <form action="" method="POST">
+        Jour<input type="text" name="then_day">
+    <br />
+        Mois<input type="text" name="then_month">
+    <br />
+        Année<input type="text" name="then_year">
+    <br />
+        <!-- <input type="text" name="field2"> -->
+        <!-- <select name="logement">
+            <option value="1">Maison</option>
+            <option value="2">Appartement</option>
+            <option value="3">Villa</option> -->
+        </select>
+        <input type="submit">
+    </form>
+
+    <br />
+    <br />
 
     <?php
-    
-        echo time() ;
-
-        echo '<br />' ;
-        // $time = mktime (date("H"), date("i"), date("s"), date("n"), date("j"), date("Y") ) ;
-        echo date('D m Y H:i:s') ;
-
-        echo '<br />' ;
-        $date = new DateTime('+3 hours') ;
-        var_dump($date) ;
-        
-        $date2 = new DateTime('-3 hours') ;
-        $interval = $date->diff($date2) ;
-        var_dump($interval->days);
-
-    ?>
+            
+            $then_day_raw = trim($_POST['then_day']);
+            $then_month_raw = trim($_POST['then_month']);
+            $then_year_raw = trim($_POST['then_year']);
+            
+            if (is_numeric($then_day_raw) && is_numeric($then_month_raw) && is_numeric($then_year_raw)
+                && !empty($then_day_raw) && !empty($then_month_raw) && !empty($then_year_raw))
+                {
+                    $then = date_create($then_year_raw."-".$then_month_raw."-".$then_day_raw);
+                    $now = date_create(date('Y-m-d'));
+                    $interval = date_diff($then, $now);
+                    $interval = $interval->format('%y Ans %m Mois %d Jour');
+                    
+                    echo "Vous avez appris à codé depuis $interval." ;
+                }
+                else {
+                    echo "Les nombres entrés ne sont pas valides.";
+                }
+            ?>
     
 </body>
-
 </html>

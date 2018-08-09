@@ -359,3 +359,193 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in C:\work_folder\php_debut\index.php on line 53
+[09-Aug-2018 07:45:52 UTC] PHP Notice:  Undefined index: then_day in C:\work_folder\php_debut\index.php on line 46
+[09-Aug-2018 07:45:52 UTC] PHP Notice:  Undefined index: then_month in C:\work_folder\php_debut\index.php on line 47
+[09-Aug-2018 07:45:52 UTC] PHP Notice:  Undefined index: then_year in C:\work_folder\php_debut\index.php on line 48
+[09-Aug-2018 08:06:58 UTC] PHP Notice:  Undefined variable: time_diff in C:\work_folder\php_debut\index.php on line 58
+[09-Aug-2018 08:07:07 UTC] PHP Recoverable fatal error:  Object of class DateInterval could not be converted to string in C:\work_folder\php_debut\index.php on line 58
+[09-Aug-2018 08:27:44 UTC] PHP Notice:  Undefined offset: 3 in C:\work_folder\php_debut\index.php on line 34
+[09-Aug-2018 08:28:08 UTC] PHP Notice:  Undefined offset: 3 in C:\work_folder\php_debut\index.php on line 35
+[09-Aug-2018 08:28:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in C:\work_folder\php_debut\index.php on line 36
+[09-Aug-2018 08:29:39 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\index.php on line 35
+[09-Aug-2018 08:29:39 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\index.php on line 35
+[09-Aug-2018 08:29:39 UTC] PHP Warning:  checkdate() expects parameter 2 to be integer, string given in C:\work_folder\php_debut\index.php on line 35
+[09-Aug-2018 08:33:48 UTC] PHP Notice:  Undefined variable: then_day_raw in C:\work_folder\php_debut\index.php on line 42
+[09-Aug-2018 08:36:45 UTC] PHP Notice:  Array to string conversion in C:\work_folder\php_debut\index.php on line 43
+[09-Aug-2018 09:09:48 UTC] PHP Warning:  fread() expects parameter 1 to be resource, string given in C:\work_folder\php_debut\index.php on line 55
+[09-Aug-2018 09:10:31 UTC] PHP Warning:  filesize() expects parameter 1 to be a valid path, resource given in C:\work_folder\php_debut\index.php on line 55
+[09-Aug-2018 09:10:31 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in C:\work_folder\php_debut\index.php on line 55
+[09-Aug-2018 09:48:50 UTC] PHP Notice:  Undefined offset: 9 in C:\work_folder\php_debut\index.php on line 65
+[09-Aug-2018 09:48:50 UTC] PHP Notice:  Undefined offset: 9 in C:\work_folder\php_debut\index.php on line 66
+[09-Aug-2018 09:48:50 UTC] PHP Notice:  Undefined offset: 9 in C:\work_folder\php_debut\index.php on line 67
+[09-Aug-2018 09:49:36 UTC] PHP Notice:  Undefined offset: 10 in C:\work_folder\php_debut\index.php on line 65
+[09-Aug-2018 09:49:51 UTC] PHP Notice:  Undefined offset: 11 in C:\work_folder\php_debut\index.php on line 65
+[09-Aug-2018 10:29:14 UTC] PHP Parse error:  syntax error, unexpected '$ville' (T_VARIABLE) in C:\work_folder\php_debut\index.php on line 36
+[09-Aug-2018 10:48:39 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda.php on line 34
+[09-Aug-2018 10:48:39 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 10:48:39 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 10:48:39 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 12:05:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' in C:\work_folder\php_debut\index.php on line 44
+[09-Aug-2018 12:05:31 UTC] PHP Fatal error:  A void function must not return a value in C:\work_folder\php_debut\index.php on line 43
+[09-Aug-2018 12:42:30 UTC] PHP Notice:  Undefined variable: isOpen in C:\work_folder\php_debut\index.php on line 17
+[09-Aug-2018 12:50:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in C:\work_folder\php_debut\index.php on line 15
+[09-Aug-2018 12:59:24 UTC] PHP Notice:  Undefined index: then_day in C:\work_folder\php_debut\php_date.php on line 36
+[09-Aug-2018 12:59:24 UTC] PHP Notice:  Undefined index: then_month in C:\work_folder\php_debut\php_date.php on line 37
+[09-Aug-2018 12:59:24 UTC] PHP Notice:  Undefined index: then_year in C:\work_folder\php_debut\php_date.php on line 38
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_day in C:\work_folder\php_debut\php_date.php on line 36
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_month in C:\work_folder\php_debut\php_date.php on line 37
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_year in C:\work_folder\php_debut\php_date.php on line 38
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_day in C:\work_folder\php_debut\php_date.php on line 36
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_month in C:\work_folder\php_debut\php_date.php on line 37
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_year in C:\work_folder\php_debut\php_date.php on line 38
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_day in C:\work_folder\php_debut\php_date.php on line 36
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_month in C:\work_folder\php_debut\php_date.php on line 37
+[09-Aug-2018 12:59:35 UTC] PHP Notice:  Undefined index: then_year in C:\work_folder\php_debut\php_date.php on line 38
+[09-Aug-2018 12:59:39 UTC] PHP Notice:  Undefined index: then_day in C:\work_folder\php_debut\php_date.php on line 36
+[09-Aug-2018 12:59:39 UTC] PHP Notice:  Undefined index: then_month in C:\work_folder\php_debut\php_date.php on line 37
+[09-Aug-2018 12:59:39 UTC] PHP Notice:  Undefined index: then_year in C:\work_folder\php_debut\php_date.php on line 38
+[09-Aug-2018 13:05:40 UTC] PHP Notice:  Undefined index: nom_ville in C:\work_folder\php_debut\php_tp1.php on line 30
+[09-Aug-2018 13:16:39 UTC] PHP Notice:  Undefined index: nom_ville in C:\work_folder\php_debut\index.php on line 31
+[09-Aug-2018 13:18:06 UTC] PHP Notice:  Array to string conversion in C:\work_folder\php_debut\index.php on line 40
+[09-Aug-2018 13:30:52 UTC] PHP Fatal error:  Cannot use [] for reading in C:\work_folder\php_debut\index.php on line 59
+[09-Aug-2018 13:35:31 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda.php on line 34
+[09-Aug-2018 13:35:31 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 13:35:31 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 13:35:31 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 3 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 3 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 3 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 4 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 4 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 4 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 5 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 5 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 5 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 6 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 6 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 6 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 7 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 7 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 7 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 8 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 8 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 8 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 9 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 9 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 9 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 10 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 10 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 10 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 11 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 11 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 11 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 12 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 12 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 12 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 13 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 13 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 13 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 14 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 14 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 14 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 15 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 15 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 15 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 16 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 16 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 16 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 17 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 17 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 17 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 18 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 18 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 18 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 19 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 19 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 19 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 20 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 20 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 20 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 21 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 21 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:12 UTC] PHP Notice:  Undefined offset: 21 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:38:25 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:38:25 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 13:40:14 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:40:14 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:40:27 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:40:28 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 13:40:28 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 13:40:28 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 14:08:52 UTC] PHP Notice:  Undefined index: nom_ville in C:\work_folder\php_debut\index.php on line 32
+[09-Aug-2018 14:11:25 UTC] PHP Notice:  A non well formed numeric value encountered in C:\work_folder\php_debut\index.php on line 45
+[09-Aug-2018 14:12:50 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda.php on line 34
+[09-Aug-2018 14:12:50 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 14:12:50 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 14:12:50 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda.php on line 39
+[09-Aug-2018 14:12:50 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 14:12:50 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 14:12:54 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 66
+[09-Aug-2018 14:12:54 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 14:13:38 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 67
+[09-Aug-2018 14:13:38 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 68
+[09-Aug-2018 14:13:58 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda.php on line 69
+[09-Aug-2018 14:13:58 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda.php on line 70
+[09-Aug-2018 14:24:36 UTC] PHP Notice:  Undefined variable: now in C:\work_folder\php_debut\index.php on line 25
+[09-Aug-2018 14:44:40 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 34
+[09-Aug-2018 14:44:40 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 39
+[09-Aug-2018 14:44:40 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 39
+[09-Aug-2018 14:44:40 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 39
+[09-Aug-2018 14:46:01 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:46:01 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:01 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:01 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:46:02 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:54:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in C:\work_folder\php_debut\php_agenda_display.php on line 32
+[09-Aug-2018 14:55:03 UTC] PHP Notice:  Undefined index: an2disp in C:\work_folder\php_debut\php_agenda_display.php on line 32
+[09-Aug-2018 14:55:03 UTC] PHP Notice:  Undefined index: mois2disp in C:\work_folder\php_debut\php_agenda_display.php on line 32
+[09-Aug-2018 14:55:03 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (--01) at position 0 (-): Unexpected character in C:\work_folder\php_debut\php_agenda_display.php:32
+Stack trace:
+#0 C:\work_folder\php_debut\php_agenda_display.php(32): DateTime->__construct('--01')
+#1 C:\work_folder\php_debut\php_agenda.php(16): require_once('C:\\work_folder\\...')
+#2 {main}
+  thrown in C:\work_folder\php_debut\php_agenda_display.php on line 32
+[09-Aug-2018 14:55:22 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:55:22 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:55:22 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:55:22 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:20 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:58:20 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:20 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:20 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:25 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:58:25 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:25 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:25 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:38 UTC] PHP Notice:  Undefined index: an2disp in C:\work_folder\php_debut\php_agenda_display.php on line 32
+[09-Aug-2018 14:58:38 UTC] PHP Notice:  Undefined index: mois2disp in C:\work_folder\php_debut\php_agenda_display.php on line 33
+[09-Aug-2018 14:58:38 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (--01) at position 0 (-): Unexpected character in C:\work_folder\php_debut\php_agenda_display.php:35
+Stack trace:
+#0 C:\work_folder\php_debut\php_agenda_display.php(35): DateTime->__construct('--01')
+#1 C:\work_folder\php_debut\php_agenda.php(16): require_once('C:\\work_folder\\...')
+#2 {main}
+  thrown in C:\work_folder\php_debut\php_agenda_display.php on line 35
+[09-Aug-2018 14:58:40 UTC] PHP Notice:  Undefined index: input_date in C:\work_folder\php_debut\php_agenda_call.php on line 23
+[09-Aug-2018 14:58:40 UTC] PHP Notice:  Undefined offset: 1 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:40 UTC] PHP Notice:  Undefined offset: 2 in C:\work_folder\php_debut\php_agenda_call.php on line 28
+[09-Aug-2018 14:58:40 UTC] PHP Warning:  checkdate() expects parameter 3 to be integer, string given in C:\work_folder\php_debut\php_agenda_call.php on line 28
